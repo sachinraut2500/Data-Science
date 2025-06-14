@@ -54,7 +54,7 @@ This project is useful for:
 * Teaching or presenting EDA workflows
 
 
-### 👤 Author
+### 👤 Author-----------------
 
 * **Sachin Raut**
   [GitHub](https://github.com/sachinraut2500)
