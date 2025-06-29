@@ -4,16 +4,15 @@
 
 ---
 
-## 🎬 Preview 🖥️🔁
+## 🖼️ Static Preview
 
-## 🎬 Preview (Static Example)
+![Static Plot Preview](https://matplotlib.org/stable/_images/sphx_glr_lines_bars_and_markers_001.png)
 
-![Static Plot Preview](https://raw.githubusercontent.com/selva86/datasets/master/images/line_chart.png)
-
+*A basic Matplotlib plot as a placeholder.*
 
 ---
 
-## 📝 Overview 🧠
+## 📝 Overview 
 
 This project showcases how to perform **data visualization using Pandas** in Python. It includes techniques for quickly exploring and analyzing datasets using **built-in Pandas** plotting capabilities.
 
