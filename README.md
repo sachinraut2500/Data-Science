@@ -1,55 +1,50 @@
-# 📊✨ Data Visualization with Pandas 🚀📈
 
-> Transform your data into stunning visuals using just **Pandas** and **Matplotlib**.
+### Step 2: Full README with embedded GIF animation
 
----
-
-## 🖼️ Static Preview
-
-![Static Plot Preview](https://matplotlib.org/stable/_images/sphx_glr_lines_bars_and_markers_001.png)
-
-*A basic Matplotlib plot as a placeholder.*
+````md
+# 📊 Data Visualization with Pandas
 
 ---
 
-## 📝 Overview 
+## 🎬 Preview 🖥️
 
-This project showcases how to perform **data visualization using Pandas** in Python. It includes techniques for quickly exploring and analyzing datasets using **built-in Pandas** plotting capabilities.
+![People interacting with charts](https://assets9.lottiefiles.com/packages/lf20_p9zp9fuc.gif)
 
-✨ Features:
-- 📂 Data loading and preprocessing  
-- 📊 Exploratory Data Analysis (EDA)  
-- 📉 Line plots, bar charts, histograms, scatter plots  
-- 🏷️ Customizing labels, titles, and legends  
-- ⚠️ Handling missing data visually
+*Animated preview — people interacting with charts and analyzing statistics.*
 
 ---
 
-## 🔗 Quick Links 🌐
+## 📝 Project Overview
 
-- 🐍 Made with: [Python](https://www.python.org/)
-- 📘 Open in Google Colab: [Click Here](https://colab.research.google.com/github/sachinraut2500/Data-Science/blob/main/Data_Visualisation_with_Pandas.ipynb)
-- 📄 License: [MIT License](./LICENSE)
+This project demonstrates how to perform **data visualization using Pandas** in Python. It showcases techniques for exploring, analyzing, and visualizing datasets efficiently using Pandas' built-in capabilities.
 
 ---
 
-## 📁 Project Structure 🗂️
+## 🔍 Features
 
-| File | Description |
-|------|-------------|
-| `Data_Visualisation_with_Pandas.ipynb` | 📓 Jupyter Notebook with all code and charts |
-| `README.md` | 📘 Project documentation (this file) |
+- Data loading and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Line plots, bar charts, histograms, scatter plots  
+- Customizing plots (labels, titles, legends)  
+- Handling missing data visually  
 
 ---
 
-## 🛠️ Requirements ⚙️
+## 📁 Files
 
-- Python 3.x 🐍  
-- Pandas 🐼  
-- Matplotlib 📊  
-- Jupyter Notebook or Google Colab 💻
+- `Data_Visualisation_with_Pandas.ipynb`: Jupyter Notebook containing all code, visualizations, and analysis.  
+- `README.md`: Project documentation (this file).
 
-Install the required libraries:
+---
+
+## 🛠️ Requirements
+
+- Python 3.x  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook or Google Colab
+
+Install required libraries with:
 
 ```bash
 pip install pandas matplotlib
@@ -57,7 +52,7 @@ pip install pandas matplotlib
 
 ---
 
-## 🚀 Getting Started 🏁
+## 🚀 Getting Started
 
 1. Clone the repository:
 
@@ -70,45 +65,31 @@ cd Data-Science
 
 * In Jupyter Notebook:
 
-  ```bash
-  jupyter notebook Data_Visualisation_with_Pandas.ipynb
-  ```
+```bash
+jupyter notebook Data_Visualisation_with_Pandas.ipynb
+```
+
 * Or open in [Google Colab](https://colab.research.google.com/github/sachinraut2500/Data-Science/blob/main/Data_Visualisation_with_Pandas.ipynb)
 
 ---
 
-## 📌 Use Cases 🎯
+## 📌 Use Cases
 
-* 🧑‍🎓 Learn data visualization basics
-* 📊 Quickly inspect and explore datasets
-* 👨‍🏫 Teach or present EDA workflows
-* 💼 Enhance your data science portfolio
+* Learning basic data visualization
+* Quick data inspection and plotting with Pandas
+* Teaching or presenting EDA workflows
 
 ---
 
 ## 👤 Author
 
 **Sachin Raut**
-🔗 [GitHub Profile](https://github.com/sachinraut2500)
+[GitHub Profile](https://github.com/sachinraut2500)
 
 ---
 
-## 🙌 Support & Feedback 💬
-
-If you found this project useful:
-
-* ⭐ Star the repo
-* 🔁 Share with others
-* 🛠 Suggest improvements via [issues](https://github.com/sachinraut2500/Data-Science/issues)
-
----
-
->  *“Turn raw data into powerful stories — one plot at a time.”*
-
----
+*“Turn raw data into powerful stories — one plot at a time.”*
 
 ```
-
----
 
 
