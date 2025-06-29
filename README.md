@@ -1,10 +1,8 @@
 # 📊 Data Visualization with Pandas
 
-## 🔗 Quick Links
-
-- 🐍 Made with [Python](https://www.python.org/)
-- 📘 [Open in Google Colab](https://colab.research.google.com/github/sachinraut2500/Data-Science/blob/main/Data_Visualisation_with_Pandas.ipynb)
-- 📄 [MIT License](./LICENSE)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sachinraut2500/Data-Science/blob/main/Data_Visualisation_with_Pandas.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 
 > **Transform your data into insights with Pandas and stunning visualizations!**
@@ -13,11 +11,12 @@
 
 ## 🎬 Preview
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Data Visualization Example GIF" width="600"/>
-</p>
+## 🎬 Preview
 
-*(Replace the GIF above with a real preview of your notebook visualizations using a [recorded GIF tool](https://www.cockos.com/licecap/) or screen recorder!)*
+![Data Visualization Example](https://raw.githubusercontent.com/plotly/datasets/master/images/animated-bar.gif)
+
+*A sample animated bar chart preview — replace with your own when ready.*
+
 
 ---
 
