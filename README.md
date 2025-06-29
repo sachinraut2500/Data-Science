@@ -82,9 +82,4 @@ jupyter notebook Data_Visualisation_with_Pandas.ipynb
 
 *“Turn raw data into powerful stories — one plot at a time.”*
 
-
-
-If you want to host the GIF yourself, you can download it from [here](https://assets9.lottiefiles.com/packages/lf20_p9zp9fuc.gif) and upload it to your repo, then update the image path accordingly.
-
-Let me know if you want help with that!
 ```
