@@ -1,12 +1,8 @@
-Here's a more **engaging**, **animated**, and **interactive-friendly** version of your `README.md` tailored for **LinkedIn and GitHub**, with support for **badges**, **animated visuals (via GIFs or links)**, and **interactive demo links** like **Google Colab**.
-
----
-
 # 📊 Data Visualization with Pandas
 
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python\&logoColor=white)](https://www.python.org/)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/your-notebook-link-here)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sachinraut2500/Data-Science/blob/main/Data_Visualisation_with_Pandas.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 > **Transform your data into insights with Pandas and stunning visualizations!**
 
