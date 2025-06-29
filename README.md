@@ -6,9 +6,10 @@
 
 ## 🎬 Preview 🖥️🔁
 
-![Visualization Preview](https://upload.wikimedia.org/wikipedia/commons/1/19/Matplotlib_3.1.0_animated_line.gif)
+## 🎬 Preview (Static Example)
 
-*Above: Example animated plot using Matplotlib. You can replace it with your own.*
+![Static Plot Preview](https://raw.githubusercontent.com/selva86/datasets/master/images/line_chart.png)
+
 
 ---
 
