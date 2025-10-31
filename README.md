@@ -6,7 +6,7 @@
 
 This project demonstrates how to perform **data visualization using Pandas** in Python. It showcases techniques for exploring, analyzing, and visualizing datasets efficiently using Pandas' built-in capabilities.
 
-----------
+------
 
 ## 🔍 Features
 
