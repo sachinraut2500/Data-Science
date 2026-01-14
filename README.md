@@ -20,7 +20,7 @@ This project demonstrates how to perform **data visualization using Pandas** in 
 - `Data_Visualisation_with_Pandas.ipynb`: Jupyter Notebook containing all code, visualizations, and analysis.  
 - `README.md`: Project documentation (this file).
 
----
+----
 
 ## 🛠️ Requirements
 
