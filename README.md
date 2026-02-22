@@ -35,7 +35,7 @@ Install required libraries with:
 pip install pandas matplotlib
 ````
 
---------
+----------
 
 ## 🚀 Getting Started
 
